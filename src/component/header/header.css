@@ -1,0 +1,12 @@
+.navbar ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+.navbar ul li {
+    padding: 15px;
+}
+.link-header {
+    text-decoration: none;
+}
